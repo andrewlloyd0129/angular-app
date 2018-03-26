@@ -15,3 +15,4 @@ var Proposal = /** @class */ (function () {
     return Proposal;
 }());
 exports.Proposal = Proposal;
+// 15, 'ABC Company', 'http://portfolio.andrewlloyd.com', 'Ruby on Rails', 150, 120, 15, 'andrewlloyd0129@gmail.com'

@@ -7,7 +7,8 @@ export class Proposal {
     public estimated_hours?: number,
     public hourly_rate?: number,
     public weeks_to_complete?: number,
-    public client_email?: string,
-
+    public client_email?: string,=
     ) {}
 }
+
+// 15, 'ABC Company', 'http://portfolio.andrewlloyd.com', 'Ruby on Rails', 150, 120, 15, 'andrewlloyd0129@gmail.com'
